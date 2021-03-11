@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20389" started-at="2021-02-03T18:50:00 CST" finished-at="2021-02-03T18:50:20 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20389" started-at="2021-02-03T18:50:00 CST" finished-at="2021-02-03T18:50:20 CST">
+      <class name="test.AddCustomersTest">
+        <test-method status="PASS" signature="customersform()[pri:0, instance:test.AddCustomersTest@33990a0c]" name="customersform" duration-ms="20351" started-at="2021-02-03T18:50:00 CST" finished-at="2021-02-03T18:50:20 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customersform -->
+      </class> <!-- test.AddCustomersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
